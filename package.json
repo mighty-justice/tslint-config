@@ -1,0 +1,28 @@
+{
+  "name": "@mighty-justice/tslint-config",
+  "version": "0.1.0",
+  "description": "Default TSLint configuration used at Mighty",
+  "main": "tslint.json",
+  "files": [
+    "tslint.json"
+  ],
+  "author": "Mighty",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mighty-justice/tslint-config.git"
+  },
+  "scripts": {
+    "release": "np"
+  },
+  "devDependencies": {
+    "np": "^3.1.0"
+  },
+  "dependencies": {
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-react": "^3.6.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.11.0"
+  }
+}
