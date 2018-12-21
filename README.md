@@ -17,7 +17,7 @@ Add `@mighty-justice/tslint-config` to your project's TSLint configuration file.
 
 ```json
 {
-    "extends": "@mighty-justice/tslint-config"
+  "extends": "@mighty-justice/tslint-config"
 }
 ```
 
