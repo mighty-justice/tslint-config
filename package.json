@@ -1,6 +1,6 @@
 {
   "name": "@mighty-justice/tslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Default TSLint configuration used at Mighty",
   "main": "tslint.json",
   "files": [
