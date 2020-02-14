@@ -17,13 +17,13 @@
     "release": "np"
   },
   "devDependencies": {
-    "np": "^3",
-    "tslint": "^5",
-    "typescript": "^3"
+    "np": "^6.0.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
   },
   "dependencies": {
     "tslint-eslint-rules": "^5.4",
-    "tslint-react": "^3.6"
+    "tslint-react": "^4.2.0"
   },
   "peerDependencies": {
     "tslint": "^5",
